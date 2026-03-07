@@ -1,1 +1,1 @@
-# yzm212-machine-learning-labs
+# yzm212-hmm-speech-recognition
